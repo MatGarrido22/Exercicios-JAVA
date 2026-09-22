@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class Ex06 {
+public class Ex5 {
     public static void main (String args[]){
         int A = Integer.parseInt(JOptionPane.showInputDialog("Digite quem acompanha o X²: "));
         int B = Integer.parseInt(JOptionPane.showInputDialog("Digite quem acompanha o X: "));
