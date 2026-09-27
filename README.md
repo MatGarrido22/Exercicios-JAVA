@@ -35,6 +35,7 @@ Estruturas de Decisões
 - Venda Mensal = 1000	// Preço Atual >= 80 // Preço Novo -5%
  
 Obs.: para outras condições, preço novo será igual ao preço atual.
+
 29.	Receba o tipo de investimento (1 = poupança e 2 = renda fixa) e o valor do investimento. Calcule e mostre o valor corrigido em 30 dias sabendo que a poupança = 3% e a renda fixa = 5%. Demais tipos não serão considerados.
 
 30.	Receba a data de nascimento e atual em ano, mês e dia. Calcule e mostre a idade em anos, meses e dias, considerando os anos bissextos.
