@@ -7,14 +7,14 @@ public class Ex23
         double valor2 = Double.parseDouble(JOptionPane.showInputDialog("Digite seu segundo valor: "));
         if (valor1>valor2)
         {
-            JOptionPane.showMessageDialog(null,"Eu disse >em ordem crescente<");
+            JOptionPane.showMessageDialog(null,"Por favor, coloque em ordem crescente");
         }
         else
         {
             double valor3 = Double.parseDouble(JOptionPane.showInputDialog("Digite seu terceiro valor: "));
             if (valor3<valor2)
             {
-                JOptionPane.showMessageDialog(null,"Eu disse >em ordem crescente<");
+                JOptionPane.showMessageDialog(null,"Por favor, coloque em ordem crescente");
             }
             else
             {
