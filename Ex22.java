@@ -8,7 +8,7 @@ public class Ex22
         int y = Integer.parseInt(JOptionPane.showInputDialog("Digite seu segundo valor (diferente do primeiro): "));
         if (x==y)
         {
-            JOptionPane.showMessageDialog(null,"Eu disse diferente");
+            JOptionPane.showMessageDialog(null,"Por favor, digite numeros diferente");
         }
         else
         {
